@@ -1,0 +1,12 @@
+package com.log4uj;
+
+public class NewTours
+{
+
+	public static void main(String[] args) 
+	{
+		
+
+	}
+
+}

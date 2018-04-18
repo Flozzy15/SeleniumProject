@@ -1,0 +1,19 @@
+package com.log4uj;
+
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+import org.apache.poi.poifs.property.DirectoryProperty.PropertyComparator;
+
+public class NewTours
+{
+
+	public static Logger logger = Logger.getLogger("NewTours");
+	public static void main(String[] args) 
+	{
+		PropertyConfigurator.configure("Log4j.properties");
+		
+		
+
+	}
+
+}

@@ -1,0 +1,5 @@
+Feature:TestNewToursAplication
+Scenario:TestLoginWithValidCredentials
+Given open firefox and start the Application
+When I enter valid UserName and Password
+Then User should be able to Login

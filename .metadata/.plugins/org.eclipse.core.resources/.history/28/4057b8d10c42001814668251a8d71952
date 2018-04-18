@@ -1,0 +1,16 @@
+package com.GridTesting ;
+
+public class NewToursLogInTest
+{
+
+	@Parameters("Browser")
+	
+	@Test
+	public void LogIn()
+	{
+		
+	}
+	
+	
+	
+}

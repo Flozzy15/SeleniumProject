@@ -1,0 +1,9 @@
+package runner;
+
+
+
+@RunWith(Cucumber.class)
+@Cucumber.options(features="features")
+public class TestRunner {
+
+}
